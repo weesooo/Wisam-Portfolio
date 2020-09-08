@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name": "Wisam Al-Ali",
+    "occupation": "Full Stack Software Engineer",
+    "image": "Wisam.jpg",
+    "bio": "Full Stack Software Engineer with an analytical mindset who loves building cutting-edge, web-based, data-driven scalable products. Experienced in Automation, API integration, data processing and design, development, testing, and deployment of tools and applications.  ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "alaliwisam97@gmail.com",
+    "phone": "312-792-7584",
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60625"
+    },
+    "resumedownload": "https://drive.google.com/file/d/16ERevgHMs-wRw6NH6OB6hX3l2TilDHRp/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/weeeso",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/weesooo/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/weesooo/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/weesooo/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Illinois at Chicago",
+        "degree": "Bachelor of Science in Computer Science, minor in Statistics",
+        "graduated": "May 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "Call One",
+        "title": "Junior Software Developer",
+        "years": "April 2020 - July 2020",
+        "description": "Work with software engineers, data Scientists, programmers, and designers to examine capabilities and limitations of various interface performances."
+      },
+      {
+        "company": "Project Steps",
+        "title": "Chief Technology Officer - CTO",
+        "years": "March 2020 - Present",
+        "description": "Project Manager for development of Project Step’s front-end and back-end in Swift and PHP."
+      },
+      {
+        "company": "Motorola Mobility",
+        "title": "Junior Python Developer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Developed an internal Python remote test web application that runs on Wildfly."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "HuluClone",
+        "category": "Hulu Clone app (ReactJS, Javascript, HTML, CSS)",
+        "image": "hulu-clone.png",
+        "url": "https://weesooo.github.io/HuluClone/"
+      },
+      {
+        "title": "iRecipe",
+        "category": "Simple Recipe app (ReactJs)",
+        "image": "iRecipe.png",
+        "url": "https://weesooo.github.io/iRecipe"
+      }
+    ]
+  }
+}
